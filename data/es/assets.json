@@ -1,0 +1,242 @@
+{
+  "assets": {
+    "enable": true,
+    "assets_bg": "images/assets/assets.jpg",
+    "assets_mockup": "images/assets-mockup.png",
+    "assets_mockup_alt": "images/assets-mockup.png",
+    "subtitle": "La mejor billetera multi-cripto",
+    "title": "Las principales criptos y más de 10.000 activos compatibles.",
+    "content": "Billetera de criptomonedas inteligente y seguro para Bitcoin (BTC), TRON (TRX), Ethereum (ETH), Binance (BNB), Litecoin (LTC), Stable Dolar (USDT) y otros activos de criptomonedas importantes. Y creciendo ... todavía hay mucha adición.",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
+  },
+
+
+  "feature": {
+    "enable": true,
+    "subtitle": "Todas las funciones en la palma de tu mano.",
+    "title": "Almacene, intercambie, rastree precios y compre criptomonedas en una billetera segura.",
+    "feature_item":[
+      {
+        "name": "Congelar y ganar",
+        "icon": "icon-freeze",
+        "content": "Congela tus monedas y gana intereses."
+      },
+      {
+        "name": "Cambio instantáneo",
+        "icon": "icon-exchange",
+        "content": "Opere criptos de forma sencilla y rápida."
+      },
+      {
+        "name": "Navegador Daap",
+        "icon": "icon-dapps",
+        "content": "Accede a multitud de servicios a través del navegador."
+      }
+    ]
+  },
+
+  "list": {
+    "enable": true,
+    "subtitle": "Una billetera segura y muy fácil de usar para:",
+    "title": "Bitcoin, Ethereum, Litecoin, Doge Coin, Tron, Dash... y más.",
+    "list_item":[
+      {
+        "name": "Bitcoin",
+        "alt": "Billetera Bitcoin",
+        "image": "images/assets/btc.png",
+        "abbr": "BTC"
+      },
+      {
+        "name": "Ethereum",
+        "alt": "Billetera Ethereum",
+        "image": "images/assets/eth.png",
+        "abbr": "ETH"
+      },
+      {
+        "name": "Litecoin",
+        "alt": "Billetera Litecoin",
+        "image": "images/assets/ltc.png",
+        "abbr": "LTC"
+      },
+      {
+        "name": "Tron",
+        "alt": "Billetera Tron",
+        "image": "images/assets/trx.png",
+        "abbr": "TRX"
+      },
+      {
+        "name": "Dash",
+        "alt": "Billetera Dash",
+        "image": "images/assets/dash.png",
+        "abbr": "DASH"
+      },
+      {
+        "name": "Binance Coin",
+        "alt": "Billetera BNB",
+        "image": "images/assets/bnb.png",
+        "abbr": "BNB"
+      },
+      {
+        "name": "DogeCoin",
+        "alt": "Billetera DogeCoin",
+        "image": "images/assets/doge.png",
+        "abbr": "DOGE"
+      },
+      {
+        "name": "DigiByte",
+        "alt": "Billetera DigiByte",
+        "image": "images/assets/dgb.png",
+        "abbr": "DGB"
+      },
+      {
+        "name": "Ripple",
+        "alt": "Billetera Ripple",
+        "image": "images/assets/xrp.png",
+        "abbr": "XRP"
+      },
+      {
+        "name": "Syscoin",
+        "alt": "Billetera Syscoin",
+        "image": "images/assets/sys.png",
+        "abbr": "SYS"
+      },
+      {
+        "name": "Tether",
+        "alt": "Billetera Tether",
+        "image": "images/assets/usdt.png",
+        "abbr": "USDT"
+      },
+      {
+        "name": "Bitcoin Cash",
+        "alt": "Billetera Bitcoin Cash",
+        "image": "images/assets/bch.png",
+        "abbr": "BCH"
+      },
+      {
+        "name": "Travala",
+        "alt": "Billetera Travala",
+        "image": "images/assets/ava.png",
+        "abbr": "AVA"
+      },
+      {
+        "name": "Klever",
+        "alt": "Billetera Klever",
+        "image": "images/assets/klv.png",
+        "abbr": "KLV"
+      },
+      {
+        "name": "Wrapped BTC",
+        "alt": "Billetera Wrapped BTC",
+        "image": "images/assets/kbtc.png",
+        "abbr": "kBTC"
+      },
+      {
+        "name": "Wrapped ETH",
+        "alt": "Billetera Wrapped ETH",
+        "image": "images/assets/keth.png",
+        "abbr": "kETH"
+      }
+
+    ],
+    "next_title": "¿Cuáles son los siguientes?",
+    "next_content": "Nuestro equipo ya está trabajando para agregar nuevos mercados que deberían aparecer pronto en la billetera.",
+    "next_item":[
+      {
+        "name": "Binance Smart Chain",
+        "alt": "Billetera BSC",
+        "image": "images/assets/bnb.png",
+        "abbr": "BSC"
+      },
+      {
+        "name": "Cardano",
+        "alt": "Billetera ADA",
+        "image": "images/assets/ada.png",
+        "abbr": "ADA"
+      },
+      {
+        "name": "Polka Dot",
+        "alt": "Billetera DOT",
+        "image": "images/assets/dot.png",
+        "abbr": "DOT"
+      },
+      {
+        "name": "Stellar",
+        "alt": "Billetera XLM",
+        "image": "images/assets/xlm.png",
+        "abbr": "XLM"
+      },
+      {
+        "name": "EOS",
+        "alt": "Billetera EOS",
+        "image": "images/assets/eos.png",
+        "abbr": "EOS"
+      },
+      {
+        "name": "VeChain",
+        "alt": "Billetera VeChain",
+        "image": "images/assets/vet.png",
+        "abbr": "VET"
+      }
+    ]
+  },
+
+
+  "funfacts": {
+    "enable": false,
+    "funfact_item": [
+      {
+        "name": "Swaps realizados",
+        "count": "500000"
+      },
+      {
+        "name": "Ethereum y Tron Tokens",
+        "count": "10000"
+      },
+      {
+        "name": "Blockchains",
+        "count": "10"
+      }
+    ]
+  },
+
+
+  "faq": {
+    "enable": true,
+    "subtitle": "Klever Wallet FAQ",
+    "title": "Preguntas Frecuentes",
+    "faq_item":[
+      {
+        "name": "¿Qué cuentas de criptomonedas puedo agregar a la billetera?",
+        "content": "<p>Actualmente, la billetera acepta Bitcoin, Litecoin, DigiByte, Dogecoin, Dash, Ethereum, Tron, Klever y todos los tokens de las cadenas de bloques Tron y Ethereum. </p>"
+      },
+      {
+        "name": "¿Se pueden agregar nuevas monedas?",
+        "content": "<p>¡Por supuesto! Nuestro equipo agregará nuevas monedas constantemente. Puede sugerir la inclusión de una nueva moneda por nuestro soporte.</p>"
+      },
+      {
+        "name": "¿Qué tokens Tron y ETH están disponibles en la billetera?",
+        "content": "<p>Puede acceder a cualquier token buscando los tokens de la aplicación. Pero solo seleccionamos los principales para pre-listar.</p>"
+      },
+      {
+        "name": "¿Qué es una moneda estable de Klever?",
+        "content": "Una moneda estable es una criptomoneda cuyo precio se basa en otra moneda. La ventaja de usar las monedas estables de Klever es que se ejecutan en la cadena de bloques de Tron, una cadena de bloques más rápida y con tarifas más bajas que las monedas originales (kBTC es una moneda estable emparejada con BTC y kETH es una moneda estable emparejada con ETH)."
+      },
+      {
+        "name": "¿Cómo agregar un token que no aparece en la billetera?",
+        "content": "<p>Solo necesitas seguir los pasos:</p><ul><li>1. Haga clic en el botón de filtro junto a la entrada de búsqueda en la pantalla del portafolio.</li><li>2. Busque el token deseado</li><li>3. Actívala para incorporarla a tu portafolio. Es solo esto.</li></ul><div class='text-center'><img src='/images/assets/faq-add-token.png' class='faq-mockup'/></div>"
+      }
+      
+    ]
+  }
+
+}

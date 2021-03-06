@@ -1,0 +1,102 @@
+{
+
+
+  "browser": {
+    "enable": true,
+    "browser_bg": "images/browser/browser-bg.png",
+    "browser_mockup": "images/browser-mockup.png",
+    "browser_mockup_alt": "images/assets-mockup.png",
+    "subtitle": "Decentralized Application (DApp) Browser",
+    "title": "Acceda a sus Dapps favoritos directamente en la billetera.",
+    "content": "El navegador Dapps de Klever Wallet es una interfaz de integración simple y segura entre sus Dapps favoritos y su cuenta de blockchain. Nuestro navegador Dapp es actualmente compatible con Dapps de la cadena de bloques Tron y Dapps de la cadena de bloques Ethereum.",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
+  },
+
+
+  "feature": {
+    "enable": true,
+    "subtitle": "Explore el mundo blockchain",
+    "title": "Juegue, intercambie, invierta, recolecte y reciba recompensas usando Dapps.",
+    "content": "El mundo descentralizado de las finanzas y otros servicios emergentes en blockchain están disponibles para usted con solo presionar un botón.",
+    "feature_item":[
+      {
+        "name": "Juegos",
+        "icon": "icon-games",
+        "category":"games"
+      },
+      {
+        "name": "Intercambio",
+        "icon": "icon-exchange",
+        "category":"exchange"
+      },
+      {
+        "name": "Collectibles",
+        "icon": "icon-collectibles",
+        "category":"collectibles"
+      },
+      {
+        "name": "Recompensas",
+        "icon": "icon-rewards",
+        "category":"rewards"
+      },
+      {
+        "name": "DeFi",
+        "icon": "icon-defi",
+        "category":"defi"
+      },
+      {
+        "name": "Préstamo",
+        "icon": "icon-loan",
+        "category":"loan"
+      },
+      {
+        "name": "Viaje",
+        "icon": "icon-travel",
+        "category":"travel"
+      },
+      {
+        "name": "Recaudación de fondos",
+        "icon": "icon-crowdfunding",
+        "category":"crowdfunding"
+      }
+    ]
+  },
+
+
+
+
+  "faq": {
+    "enable": true,
+    "subtitle": "Klever Wallet FAQ",
+    "title": "Preguntas frecuentes",
+    "faq_item":[
+      {
+        "name": "¿Qué es una DApp?",
+        "content": "<p>Una aplicación descentralizada (DApp) es una aplicación informática que se ejecuta en un sistema informático distribuido. Las DApps se han popularizado mediante tecnologías de contabilidad distribuida (DLT) como Ethereum Blockchain, donde las DApps a menudo se denominan contratos inteligentes.</p>"
+      },
+      {
+        "name": "¿El navegador accede a algún tipo de sitio web?",
+        "content": "<p>Sí, nuestro navegador funciona como cualquier navegador web. Puede acceder a DApps, CoinMarketCap, así como a Google, Facebook o cualquier otro sitio web de la red.</p>"
+      },
+      {
+        "name": "¿Se accede a las DApps a través de la billetera de Klever?",
+        "content": "<p>No. La billetera solo hace la conexión transparente entre las DApps y su cuenta, pero no somos los propietarios y no somos responsables de ninguna transacción realizada a través de la billetera con las DApps del navegador. Siempre investigue.</p>"
+      }
+      
+    ]
+  }
+
+
+  
+}

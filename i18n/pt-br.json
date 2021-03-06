@@ -1,0 +1,26 @@
+[
+  {
+    "id": "career_nav_link",
+    "translation": "Carreiras"
+  },
+  {
+    "id": "news_nav_link",
+    "translation": "Notícias"
+  },
+  {
+    "id": "quick_links",
+    "translation": "Klever Wallet App"
+  },
+  {
+    "id": "ecosystem_links",
+    "translation": "Ecossistema Klever"
+  },
+  {
+    "id" : "telegram_title",
+    "translation": "Grupos Oficiais do Telegram"
+  },
+  {
+    "id" : "telegram_warning",
+    "translation": "Nunca envie sua seed, private key em grupos ou para ninguém. Nosso time de suporte jamais solicita este tipo de informação, mantenha-se seguro."
+  }
+]
