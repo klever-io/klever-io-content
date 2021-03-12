@@ -1,0 +1,101 @@
+{
+
+
+  "browser": {
+    "enable": true,
+    "browser_bg": "images/browser/browser-bg.png",
+    "browser_mockup": "images/browser-mockup.png",
+    "browser_mockup_alt": "images/assets-mockup.png",
+    "subtitle": "Decentralized Application (DApp) Browser",
+    "title": "Greife auf deine lieblings-Dapps direkt im Wallet zu.",
+    "content": "Klever Wallets Dapp Browser ist eine einfache und sichere Schnittstelle zwischen beliebten Dapps und den Blockchainkonten. Unser Dapp Browser ist zur Zeit mit Dapps auf der Tron- und Ethereum-Blockchain kompatibel.",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
+  },
+
+
+  "feature": {
+    "enable": true,
+    "subtitle": "Entdecke die Blockchain-Welt",
+    "title": "Spiele, handle, investiere und erhalte Vergütungen durch Nutzung von Dapps.",
+    "content": "Die dezentrale Welt der Finanzen und anderer entstehender Dienste sind mit nur einem Klick erreichbar.",
+    "feature_item":[
+      {
+        "name": "Spiele",
+        "icon": "icon-games",
+        "category":"games"
+      },
+      {
+        "name": "Börse",
+        "icon": "icon-exchange",
+        "category":"exchange"
+      },
+      {
+        "name": "Sammelstücke",
+        "icon": "icon-collectibles",
+        "category":"collectibles"
+      },
+      {
+        "name": "Vergütungen",
+        "icon": "icon-rewards",
+        "category":"rewards"
+      },
+      {
+        "name": "DeFi",
+        "icon": "icon-defi",
+        "category":"defi"
+      },
+      {
+        "name": "Kredite",
+        "icon": "icon-loan",
+        "category":"loan"
+      },
+      {
+        "name": "Reisen",
+        "icon": "icon-travel",
+        "category":"travel"
+      },
+      {
+        "name": "Crowdfunding",
+        "icon": "icon-crowdfunding",
+        "category":"crowdfunding"
+      }
+    ]
+  },
+
+
+
+  "faq": {
+    "enable": true,
+    "subtitle": "Klever Wallet FAQ",
+    "title": "Frequently Asked Questions",
+    "faq_item":[
+      {
+        "name": "Was ist eine DApp?",
+        "content": "<p>Eine dezentrale Anwendung (DApp) ist ein Computerprogramm, welches auf einem verteilt rechnendem System läuft. DApps wurden durch verteilte Buchungstechnologien (DLT) wie der Ethereum-Blockchain populär gemacht, bei denen DApps häufig als intelligente Verträge (Smart Contracts) bezeichnet werden.</p>"
+      },
+      {
+        "name": "Kann mit dem Browser auf jede Art von Webseite zugegriffen werden?",
+        "content": "<p>Ja. Unser Browser funktioniert fast wieder jeder andere Webbrowser. Es kann auf DApps, CoinMarketCap, sowie auf Google, Facebook oder andere Webseiten zugegriffen werden.</p>"
+      },
+      {
+        "name": "Gehören die DApps, auf die vom Wallet zugegriffen werden kann, zu Klever?",
+        "content": "<p>Nein. Das Wallet stellt nur eine Verbindung zwischen den DApps und deinem Konto her. Wir sind nicht die Anbieter dieser Anwendungen und daher auch nicht für die Transaktionen verantwortlich, die mit dem DApp-Browser durchgeführt werden. Immer vorher informieren!</p>"
+      }
+      
+    ]
+  }
+
+
+
+}
