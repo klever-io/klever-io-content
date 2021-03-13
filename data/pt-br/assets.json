@@ -38,7 +38,7 @@
         "content": "Negocie moedas de forma simples e rápida."
       },
       {
-        "name": "Navegador Daap",
+        "name": "Navegador DApp",
         "icon": "icon-dapps",
         "content": "Acesse uma infinidade de serviços por meio do navegador."
       }
@@ -103,12 +103,6 @@
         "alt": "Carteira Ripple",
         "image": "images/assets/xrp.png",
         "abbr": "XRP"
-      },
-      {
-        "name": "Syscoin",
-        "alt": "Carteira Syscoin",
-        "image": "images/assets/sys.png",
-        "abbr": "SYS"
       },
       {
         "name": "Tether",
@@ -186,6 +180,12 @@
         "alt": "Billetera VeChain",
         "image": "images/assets/vet.png",
         "abbr": "VET"
+      },
+      {
+        "name": "Syscoin",
+        "alt": "Syscoin Wallet",
+        "image": "images/assets/sys.png",
+        "abbr": "SYS"
       }
     ]
   },
@@ -193,7 +193,7 @@
 
   "funfacts": {
     "enable": false,
-    "funfact_item": [
+    "funfact_item": [ 
       {
         "name": "Trocas realizados",
         "count": "500000"
@@ -233,7 +233,7 @@
       },
       {
         "name": "Como adicionar um token que não aparece na carteira?",
-        "content": "<p>YVocê só precisa seguir as etapas:</p><ul><li>1. Clique no botão de filtro ao lado da entrada de pesquisa na tela do portfólio.</li><li>2. Procure o token desejado</li><li>3. Ative-o para ser adicionado ao seu portfólio. É só isso.</li></ul><div class='text-center'><img src='/images/assets/faq-add-token.png' class='faq-mockup'/></div>"
+        "content": "<p>YVocê só precisa seguir as etapas:</p><ul><li>1. Clique no botão de filtro ao lado da entrada de pesquisa na tela do portfólio.</li><li>2. Procure o token desejado</li><li>3. Ative-o para ser adicionado ao seu portfólio. É só isso.</li></ul><div class='text-center'><img src='/images/assets/faq-add-token.png' class='faq-mockup img-fluid'/></div>"
       }
       
     ]

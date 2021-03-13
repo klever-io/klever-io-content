@@ -2,84 +2,92 @@
 
 
   "started": {
-    "enable": true,
-    "time_start": "Time to start",
-    "start_content": "<p>The pool address will be released after the countdown ends.</p>"
+    "enable": false,
+    "time_start": "Tiempo de empezar",
+    "start_content": "<p>La dirección del grupo se dará a conocer después de que finalice la cuenta atrás.</p>",
+    "time_left" : "Tiempo restante",
+    "left_content": "<p>La dirección del pool se dará a conocer después de que finalice la cuenta atrás.</p>",
+    "start_date": "Comienza el 22 de marzo de 2021",
+    "klv_burn": "Todo el KLV utilizado para extraer KFI de los Pools Mineros se quemará"
   },
 
 
   "how": {
-    "enable": true,
+    "enable": false,
     "subtitle": "Klever Finance Token (KFI)",
-    "title": "How to mine KFI?",
-    "content_alert":"Read all instructions carefully. If your deposit does not meet all of the requirements below, your KLV will be forfeited.",
-    "content":"<p>People who have the KLV token will be able to add it as liquidity to extract the KFI token at the end of the term.</p><ul><li>1. The process will be automatic, just send your KLV to the address of the QR Code *.</li><li>2. All KLV sent to this address will be burned at the end of the term when the KFI is distributed.</li></ul>"
-    
+    "title": "Cómo minar KFI?",
+    "content_alert":"Lea todas las instrucciones detenidamente. Si su depósito no cumple con todos los requisitos a continuación, perderá su KLV.",
+    "content":"<p> Las personas que tengan el token KLV podrán agregarlo como liquidez para extraer el token KFI al final del plazo. </p> <ul> <li> 1. El proceso será automático, solo envíe su KLV a la dirección del Código QR *. </li> <li> 2. Todo el KLV enviado a esta dirección se grabará al final del plazo cuando se distribuya el KFI. </li> </ul>"
   },
 
+
   "mine_data": {
-    "enable": true,
+    "enable": false,
     "total_burnt_title":"Total Pool",
     "total_burnt_icon":"🔥",
-    "total_burnt_tip":"Total KLV received at the mining address",
-    "total_burnt_volume":"123,234,455.00",
-    "kfi_max":"Total to mine",
-    "kfi_max_tip":"Total available for mining",
-    "kfi_max_value":" 100,000.00",
-    "kfi_mined":"Mined",
-    "kfi_mined_tip":"KFI already mined",
-    "kfi_mined_value":" 25,856.00",
-    "kfi_tobemined":"To be mined per day",
-    "kfi_tobemined_value":" 3,333.33"
+    "total_burnt_tip":"KLV total recibido en la dirección minera",
+    "kfi_max":"Total a la minería",
+    "kfi_max_tip":"Total disponible para minería",
+    "kfi_mined":"Minado",
+    "kfi_mined_tip":"KFI ya minado",
+    "kfi_tobemined":"Para ser minado por día"
   },
 
 
   "qrcode" : {
     "enable": true,
-    "open_code": "I am aware of the rules, show me the address.",
-    "min_value" : "* Only send multiple values ​​of 1,000 KLV to the address. Lower values ​​may be lost if the distribution is less than 0.000001 KFI.",
-    "time_left" : "Time Left"
+    "open_code": "Conozco las reglas, muéstrame la dirección.",
+    "min_value" : "* Solo envíe varios valores de 1000 KLV a la dirección. Los valores más bajos pueden perderse si la distribución es menor que 0.000001 KFI."
   },
 
+  "banner" : {
+    "enable": false,
+    "image": "images/mining-banner.jpg",
+    "image_alt" : "KFI Mining y KLV Burn"
+  },
+
+
   "userdata" :{
-    "enable" : true,
-    "total_sent": "Total sent to the pool",
-    "total_sent_tip": "Total sent by this address",
-    "partial_mined": "Total mined",
-    "partial_mined_tip": "Total already mined by this address",
-    "projection_mine": "Today's mining projection",
-    "projection_mine_tip": "This value may vary"
+    "total_sent": "Total enviado a la pool",
+    "total_sent_tip": "Total enviado por esta dirección",
+    "partial_mined": "Total extraído",
+    "partial_mined_tip": "Total ya extraído por esta dirección",
+    "projection_mine": "Proyección minera de hoy",
+    "projection_mine_tip": "Este valor puede variar"
   },
 
 
   "why": {
     "enable": true,
     "subtitle": "Klever Finance Token (KFI)",
-    "title": "Why mine KFI?",
-    "content":"Klever Blockchain will distribute 100% of the protocol fees as KLV network rewards to the KFI governance community. Each Klever Blockchain app, or kapp, can have their own set of fees. Rewards are fees automatically collected on apps.",
-    "content_highlight":"The Klever Finance Token (KFI) is the Klever Blockchain Governance Token.",
-    "whitepaper_btn":"Download Whitepaper"
+    "title": "Por que minar KFI?",
+    "content":"Klever Blockchain distribuirá el 100% de las tarifas del protocolo como recompensas de la red KLV a la comunidad de gobierno de KFI. Cada aplicación Klever Blockchain, o kapp, puede tener su propio conjunto de tarifas. Las recompensas son tarifas que se cobran automáticamente en las aplicaciones.",
+    "whitepaper_btn":"Descargar Whitepaper",
+    "URL": "https://klever.io/downloads/Klever_Finance_Whitepaper_V1.pdf"
   },
 
 
+  "highlight":{
+    "enable": true,
+    "content_highlight":"El token de finanzas de Klever (KFI) es el token de gobernanza de la cadena de bloques de Klever."
+  },
 
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
+    "title": "Preguntas Frecuentes",
     "faq_item":[
       {
-        "name": "What is the difference between KLV and KFI?",
-        "content": "<p>To clarify, KLV Coin is the main utility token of the Klever Blockchain and KFI is the governance token of the blockchain.</p><p>Klever Blockchain allows us to build unlimited point-to-point applications in the chain. Each protocol application will have its own fee contribution model for the network itself and the KFI governance community. As more applications are developed on the Klever Blockchain, more value flows to liquidity pools through the KLV and more rewards are distributed to the KFI governance community.</p>"
+        "name": "¿Cuál es la diferencia entre KLV y KFI?",
+        "content": "<p> Para aclarar, KLV Coin es el token de utilidad principal de Klever Blockchain y KFI es el token de gobernanza de blockchain. </p> <p> Klever Blockchain nos permite construir aplicaciones ilimitadas punto a punto en la cadena. . Cada aplicación de protocolo tendrá su propio modelo de contribución de tarifas para la propia red y la comunidad de gobierno de KFI. A medida que se desarrollan más aplicaciones en Klever Blockchain, fluye más valor a los fondos de liquidez a través de KLV y se distribuyen más recompensas a la comunidad de gobierno de KFI. </p>"
       },
       {
-        "name": "How can I use KFI on Klever Blockchain?",
-        "content": "<p>You can use KFI on Klever Blockchain to:</p><ul><li>• Vote for new proposals</li><li>• Vote for new projects</li><li>• Vote for change proposals</li><li>• Vote for upgrade proposals</li><li>• Earn network rewards</li></ul>"
+        "name": "¿Cómo puedo usar KFI en Klever Blockchain?",
+        "content": "<p> Puede usar KFI en Klever Blockchain para: </p> <ul> <li> • Vote por nuevas propuestas </li> <li> • Vote por nuevos proyectos </li> <li> • Vote por el cambio propuestas </li> <li> • Vote por propuestas de actualización </li> <li> • Obtenga recompensas de la red </li> </ul>"
       }
       
     ]
   }
-
 
 
 }

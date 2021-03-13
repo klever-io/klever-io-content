@@ -2,7 +2,7 @@
 # page title
 title_page: "Labs"
 # meta title
-title: "KFI Mining | Klever Wallet"
+title: "KFI Mining Pool | Klever Wallet"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : "The Klever Finance Token (KFI) is the Klever Blockchain Governance Token."
 ---
