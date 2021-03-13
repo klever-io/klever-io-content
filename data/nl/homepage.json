@@ -1,0 +1,218 @@
+{
+  "banner": {
+    "enable": true,
+    "pre_title": "+1M Downloads *",
+    "title": "Best all in one Cryptocurrency Wallet",
+    "watermark": "KLV",
+    "brand_name": "Klever Wallet",
+    "content": "is the perfect choice to buy and trade the world’s major cryptocurrencies securely like BTC, ETH, TRX, XRP & LTC.",
+    "image": "images/banner/mockup-hero.png",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
+  },
+
+  "buy_crypto": {
+    "enable": true,
+    "subtitle": "Download Klever Wallet to",
+    "name": "Buy Crypto with a Credit Card",
+    "content": "Start your investment in cryptocurrencies by buying directly in the app with a credit card.",
+    "image": "images/buy-crypto.png"
+  },
+
+
+
+  "swap": {
+    "enable": true,
+    "image": "images/swap-mockup.png",
+    "subtitle": "Download Klever Wallet to",
+    "title": "Swap your Crypto Instantly",
+    "content": "Trade your currencies directly in the app. No registration, no KYC, no selfie.",
+    "content2":"Receive rewards back from your friends' Swap fees.",
+    "swap_count": "+500k Swaps performed",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
+  },
+
+
+
+  "browser": {
+    "enable": true,
+    "image": "images/browser-mockup.png",
+    "subtitle": "Download Klever Wallet to",
+    "title": "Use your favorite Dapps",
+    "content": "A complete browser in your hands to access your favorite blockchain projects.",
+    "content2":"Fully compatible with Tron and Ethereum Blockchains.",
+    "swap_count": "+500k Swaps performed",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
+  },
+
+
+  
+
+
+  "feature": {
+    "enable": true,
+    "subtitle": "Why Klever Wallet is your best choice",
+    "title": "Complete, safe and easy to use.",
+    "feature_item":[
+      {
+        "name": "24/7 Support",
+        "icon": "icon-tutorials",
+        "content": "Support is one of our great highlights. We have a global and world-class service team."
+      },
+      {
+        "name": "Peer-to-Peer",
+        "icon": "icon-switch",
+        "content": "Klever is a decentralized p2p and self-custody wallet network. Your Keys, your crypto."
+      },
+      {
+        "name": "Military encryption",
+        "icon": "icon-lock",
+        "content": "Klever utilizes the latest military-grade technology for encryption."
+      }
+    ]
+  },
+
+
+
+  "global": {
+    "enable": true,
+    "subtitle": "Global presence with custom localization",
+    "title": "+30 ",
+    "title_countries": "languages",
+    "content":"Configure the language and base currency of your portfolio for an ideal and local experience.",
+    "referral":" We have an incredible referral program too! No ponzi.",
+
+    "circle_title": "+190",
+    "circle_text": "countries"
+
+  },
+
+  "testimonial": {
+    "enable": true,
+    "subtitle": "App Reviews",
+    "title": "What Our Clients Says?",
+    "testimonial_item": [
+      {
+        "name": "Guilherme Mendes",
+        "image": "images/reviews/5_stars.svg",
+        "rating": "5",
+        "content": "It's an amazing app! You can use the app easily!"
+      },
+      {
+        "name": "Shamine Zen",
+        "image": "images/reviews/5_stars.svg",
+        "rating": "5",
+        "content": "Great interface and easy to use feature plus the transaction is super fast and easy."
+      },
+      {
+        "name": "Abel Gallegos",
+        "image": "images/reviews/5_stars.svg",
+        "rating": "5",
+        "content": "Try it. Best crypto wallet"
+      },
+      {
+        "name": "CleanAFGadgets",
+        "image": "images/reviews/4_stars.svg",
+        "rating": "4",
+        "content": "User friendly and smooth."
+      },
+      {
+        "name": "Vro319",
+        "image": "images/reviews/5_stars.svg",
+        "rating": "5",
+        "content": "WOW! I was able to send my bitcoin here and it took seconds to show up. Through this app I’m able to now see mass adoption."
+      },
+      {
+        "name": "James Rolls",
+        "image": "images/reviews/5_stars.svg",
+        "rating": "5",
+        "content": "This wallet totally ROCKS It is the Best wallet in crypto imo."
+      },
+      {
+        "name": "BENSDAD143",
+        "image": "images/reviews/5_stars.svg",
+        "rating": "5",
+        "content": "Best Wallet. Love this wallet. Developers are always working to enhance features."
+      }
+    ]
+  },
+
+
+  "download": {
+    "enable": true,
+    "title": "Download Klever Wallet",
+    "image": "images/download-mobile-img.jpg",
+    "content": "Don’t miss out, download Klever Wallet today and take advantage of all the powerful features of the world’s major cryptocurrencies has to offer.",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
+  },
+
+  "faq": {
+    "enable": true,
+    "subtitle": "Klever Wallet FAQ",
+    "title": "Frequently Asked Questions",
+    "faq_item":[
+      {
+        "name": "What is Klever ? ",
+        "content": "<p>Klever.io is a crypto wallet ecosystem serving over 2 million users from more than 200 countries worldwide with Klever App, Klever OS, Klever Swap, and other emerging products and services. Klever App is a simple, powerful, smart and secure crypto wallet for Bitcoin (BTC), TRON (TRX), Ethereum (ETH), Binance (BNB), Litecoin (LTC) and other top cryptocurrency assets.</p><p>Klever is a decentralized p2p and self-custody wallet network, putting the private keys in the hands of their users. This means that the users have total and full control of their private keys and that the Klever team cannot at any time or in any way access users’ funds or view their private keys.</p><p>Klever is made for people who aim to be in control of their own money and crypto, and the app is optimized for mobile payments and a decentralized economy where the user holds the keys to their financial future, without censorship, and with full privacy and anonymity.</p><p>Klever offers true and secure ownership of cryptocurrency. The security of Klever App is ensured by being built on top of Klever OS (Operating System), which uses advanced security mechanisms that completely protect the users’ private keys and funds. </p><p>Klever’s encrypted and secure architecture makes private keys and sensitive data available only on the user’s specific mobile device, as Klever utilizes the latest military-grade technology for encryption.Buy Coins & Swap CryptoUsers can buy KLV and cryptocurrencies with a credit or debit card from anywhere in the world and receive the purchased coins in their Klever wallet in minutes, with full security all inside the Klever App.Klever offers more than 300 instant pairs for direct trade in Klever Swap, which allows users to securely convert any coin or token to another at the push of a button, without having to leave your wallet. KLV serves as the fuel for Klever Swap, and enables reduced and lowered Swap fees. KLV Staking inside the Klever App enables users to earn a passive income and claim rewards on every hour. There is currently more than 51% of all KLV in circulation frozen and staked by Klever users. Klever Supports 10 Blockchains & Thousands of Cryptos.</p><h4>The Klever ecosystem supports the world’s major blockchains, including:</h4><ul><li>- Bitcoin (BTC)</li><li>- Ethereum (ETH)</li><li>- TRON (TRX)</li><li>- Binance (BNB)</li><li>- Ripple (XRP)</li><li>- Litecoin (LTC)</li><li>- DigiByte (DGB)</li><li>- DogeCoin (DOGE)</li><li>- Dash (DASH)</li><li>- Bitcoin Cash (BCH)</li><li>- All ERC20 token</li><li>- All TRC10 and TRC20 tokens</li><li>- All BEP20 tokens</li></ul><h4>Klever Ecosystem & Roadmap</h4><p>Klever App is a central element of the Klever ecosystem, but only one part of the whole network. Klever OS serves as the foundation and security mechanism for the entire Klever network of products and services, with the upcoming Klever SDK (Software Development Kit) to offer a plug-and-play crypto wallet for all developers who want to integrate blockchain features into their app, website, wearables or other applications. The Klever team will launch a series of new platforms to expand the product series of the ecosystem, including Klever Exchange in Q1 this year, Klever Browser for mobile, Klever Bank. in Q2 2020, and Klever Blockchain. KLV will serve as the main utility token on all Klever’s current and future platforms.</p>"
+      },
+      {
+        "name": "Why should you use a crypto wallet?",
+        "content": "<p>Cryptocurrency wallets are the only safe way to store your cryptocurrencies.</p> <p>Many people leave their cryptos directly at exchanges, but delegating custody of their currencies to third parties is always a risk.</p><p>Why choose Klever Wallet then?</p><p>Our wallet, in addition to being super secure, is also one of the most complete on the market, allowing access to all the features of each blockchain giving super powers to users far beyond conventional crypto transactions.</p><p>Your keys, your cryptos. If you don't have access to your address's private key, your cryptocurrencies will always be at risk.</p>"
+      },
+      {
+        "name": "How to buy crypto with credit or debit card using Klever app?",
+        "content": "<p>The ultimate guide and step-by-step tutorial on how to buy <b>Bitcoin (BTC)</b>, <b>Klever (KLV)</b>, <b>Ethereum (ETH)</b>, <b>Tron (TRX)</b> and <b>Ripple (XRP)</b> fast and securely with credit or debit cards right in the Klever App. </p> <p>Download Klever App for Android or iOS at: https://klever.io</p> <h4>How to buy cryptocurrencies in Klever:</h4> <ul><li> 1. Click on Buy Crypto Banner.</li>  <li>2. Choose Coin or Token to Buy. </li><li> 3. Input Amount of Crypto you want to Buy, or Fiat Value.</li><li>  4. Select Your Receiving Address. </li><li> 5. Input your Card Details & Fill the Form. </li><li> 6. Upload your Identity Document. </li><li>  7. Wait for your payment request to be approved. </li> </ul><h4>To check your Buy Order: </h4><ul><li>1. Click on Buy Crypto Banner.</li><li>  2. Click on Orders  </li></ul><p>If you have any questions or is in need of support with your crypto purchase, please contact support@simplex.com.</p><div class='video-faq'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ie7ysHQ05Xw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
+      },
+      {
+        "name": "How does Klever's referral program work?",
+        "content": "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+      }
+      
+    ]
+  }
+
+
+}
