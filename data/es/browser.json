@@ -79,7 +79,7 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Preguntas frecuentes",
+    "title": "Preguntas Frecuentes",
     "faq_item":[
       {
         "name": "¿Qué es una DApp?",

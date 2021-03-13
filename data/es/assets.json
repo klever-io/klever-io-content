@@ -38,7 +38,7 @@
         "content": "Opere criptos de forma sencilla y rápida."
       },
       {
-        "name": "Navegador Daap",
+        "name": "Navegador DApp",
         "icon": "icon-dapps",
         "content": "Accede a multitud de servicios a través del navegador."
       }
@@ -103,12 +103,6 @@
         "alt": "Billetera Ripple",
         "image": "images/assets/xrp.png",
         "abbr": "XRP"
-      },
-      {
-        "name": "Syscoin",
-        "alt": "Billetera Syscoin",
-        "image": "images/assets/sys.png",
-        "abbr": "SYS"
       },
       {
         "name": "Tether",
@@ -186,6 +180,12 @@
         "alt": "Billetera VeChain",
         "image": "images/assets/vet.png",
         "abbr": "VET"
+      },
+      {
+        "name": "Syscoin",
+        "alt": "Syscoin Wallet",
+        "image": "images/assets/sys.png",
+        "abbr": "SYS"
       }
     ]
   },
@@ -233,7 +233,7 @@
       },
       {
         "name": "¿Cómo agregar un token que no aparece en la billetera?",
-        "content": "<p>Solo necesitas seguir los pasos:</p><ul><li>1. Haga clic en el botón de filtro junto a la entrada de búsqueda en la pantalla del portafolio.</li><li>2. Busque el token deseado</li><li>3. Actívala para incorporarla a tu portafolio. Es solo esto.</li></ul><div class='text-center'><img src='/images/assets/faq-add-token.png' class='faq-mockup'/></div>"
+        "content": "<p>Solo necesitas seguir los pasos:</p><ul><li>1. Haga clic en el botón de filtro junto a la entrada de búsqueda en la pantalla del portafolio.</li><li>2. Busque el token deseado</li><li>3. Actívala para incorporarla a tu portafolio. Es solo esto.</li></ul><div class='text-center'><img src='/images/assets/faq-add-token.png' class='faq-mockup img-fluid'/></div>"
       }
       
     ]
