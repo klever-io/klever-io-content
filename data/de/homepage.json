@@ -26,7 +26,19 @@
     "subtitle": "Installiere das Klever Wallet, um",
     "name": "Crypto mit Kreditkarte zu kaufen",
     "content": "Beginne deine Investition in Cryptowährungen durch direktes Kaufen mit Kreditkarte direkt in der App.",
-    "image": "images/buy-crypto.png"
+     "image": "images/buy-crypto-2.png",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
   },
 
 
@@ -61,7 +73,7 @@
     "subtitle": "Installiere das Klever Wallet, um",
     "title": "beliebte Dapps zu nutzen",
     "content": "Ein vollständiger Browser steht zur Verfügung, um Blockchain-Projekte direkt nutzen zu können",
-    "content2":"Komplett kompatibel mit der Tron- und Ethereum-Blockchain.",
+    "content2":"Komplett kompatibel mit der Ethereum- und Tron-Blockchain.",
     "swap_count": "+500k Swaps ausgeführt",
     "iosbutton": {
       "enable": true,
@@ -113,7 +125,6 @@
     "title_countries": "Sprachen",
     "content":"Konfiguriere die Sprache und Basiswährung Deines Portfolios für ein ideales und gewohntes Erlebnis.",
     "referral":" Wir haben auch ein unglaubliches Empfehlungsprogramm! Kein Ponzi.",
-
     "circle_title": "+190",
     "circle_text": "Länder"
 
