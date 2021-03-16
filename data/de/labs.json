@@ -2,14 +2,18 @@
 
 
   "started": {
-    "enable": true,
-    "time_start": "Zeit bis zum Start",
-    "start_content": "<p>Die Pool-Adresse wird bekanntgegeben, sobald der Countdown endet.</p>"
+    "enable": false,
+    "time_start": "KFI Mining",
+    "start_content": "<p>Das Mining beginnt, sobald der Countdown abgelaufen ist.</p>",
+    "time_left" : "Time Left",
+    "left_content": "<p>KLV, die nach Ablauf des Events geschickt werden, werden ausnahmslos ohne Rückgabemöglichkeit verbrannt.</p>",
+    "start_date": "Start ist am 22. März 2021",
+    "klv_burn": "Alle KLV, die zum Minen von KFI an den Mining Pool geschickt werden, werden verbrannt."
   },
 
 
   "how": {
-    "enable": true,
+    "enable": false,
     "subtitle": "Klever Finance Token (KFI)",
     "title": "Wie kann ich KFI minen?",
     "content_alert":"Lese alle Anweisung genau durch. Wenn die hinterlegten KLV nicht allen Anforderungen entsprechen, werden diese KLV ungültig.",
@@ -18,7 +22,7 @@
   },
 
   "mine_data": {
-    "enable": true,
+    "enable": false,
     "total_burnt_title":"Kompletter Pool",
     "total_burnt_icon":"🔥",
     "total_burnt_tip":"Alle an der Mining-Adresse eingegangenen KLV:",
@@ -35,10 +39,16 @@
 
 
   "qrcode" : {
-    "enable": true,
+    "enable": false,
     "open_code": "Ich bin mir der Regeln bewusst, zeige mir die Adresse.",
-    "min_value" : "* Sende nur ein Vielfaches von 1000 KLV an die Adresse. Kleine Werte können bei der Ausschüttung von unter 0.000001 KFI verloren gehen.",
-    "time_left" : "Time Left"
+    "min_value" : "* Sende nur ein Vielfaches von 1000 KLV an die Adresse. Kleine Werte können bei der Ausschüttung von unter 0.000001 KFI verloren gehen."
+ },
+
+
+  "banner" : {
+    "enable": false,
+    "image": "images/mining-banner.jpg",
+    "image_alt" : "KFI Mining und KLV Verbrennung"
   },
 
   "userdata" :{
@@ -57,10 +67,15 @@
     "subtitle": "Klever Finance Token (KFI)",
     "title": "Warum KFI minen?",
     "content":"<p>Während des KFI Mining und dem KLV Burn Event vom 22. März bis 20. April 2021 werden der globalen KLV-Community insgesamt 100.000 KFI für das Mining zur Verfügung gestellt.</p><p>Alle KLV, die zur Gewinnung von KFI verwendet werden, werden verbrannt und aus der Zirkulation von KLV entfernt. KLV-Benutzer weltweit erhalten die Möglichkeit, KFI zu generieren, indem sie KLV an die täglichen Mining-Pools senden.</p><p>Die Klever-Blockchain wird 100% der Protokollgebühren als Belohnung des KLV-Netzwerks an die KFI-Governance-Community als Belohnung für die Verantwortung und die wesentliche Arbeit bei der Verwaltung der Blockchain verteilen. Jede Klever-Blockchain-App, oder Kapp, kann ihre eigenen Gebühren besitzen. Belohnungen sind Gebühren, die automatisch für Apps erhoben werden. Die Befugnis, neue Kapps zu genehmigen oder abzulehnen, liegt ausschließlich in den Händen der KFI-Verwaltungsgemeinschaft. Durch die Verwendung des KFI-Gemeinschaftsabstimmungssystems stellen KFI-Inhaber sicher, dass die Klever-Blockchain frei von Betrug und verdächtigen Apps ist, da die KFI-Verwaltungsgemeinschaft die Bereitstellung neuer Kapps überprüft und genehmigt.</p>",
-    "content_highlight":"Der Klever Finance Token (KFI) ist der Klever Blockchain Verwaltungstoken.",
-    "whitepaper_btn":"Download Whitepaper"
+    "whitepaper_btn":"Download Whitepaper",
+    "URL": "https://klever.io/downloads/Klever_Finance_Whitepaper_V1.pdf"
   },
 
+
+  "highlight":{
+    "enable": true,
+    "content_highlight":"Der Klever Finance Token (KFI) ist der  the Klever Blockchain Verwaltungstoken."
+  },
 
 
   "faq": {
