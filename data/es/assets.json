@@ -213,7 +213,6 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Preguntas Frecuentes",
     "faq_item":[
       {
         "name": "¿Qué cuentas de criptomonedas puedo agregar a la billetera?",

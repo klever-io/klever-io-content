@@ -22,5 +22,17 @@
   {
     "id" : "telegram_warning",
     "translation": "Never send your seed, private key in groups or to anyone. Our support team never asks for this type of information, so stay safe."
+  },
+  {
+    "id" : "faq_title",
+    "translation": "Frequently Asked Questions"
+  },
+  {
+    "id": "android_button_alt",
+    "translation" : "Download Android Wallet"
+  },
+  {
+    "id": "apple_button_alt",
+    "translation" : "Download Apple Wallet"
   }
 ]

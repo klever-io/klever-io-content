@@ -1,96 +1,108 @@
 {
 
 
-  "browser": {
+  "quarters_list": {
+    
     "enable": true,
-    "browser_bg": "images/browser/browser-bg.png",
-    "browser_mockup": "images/browser-mockup.png",
-    "browser_mockup_alt": "images/assets-mockup.png",
-    "subtitle": "Decentralized Application (DApp) Browser",
-    "title": "Access your favorite Dapps directly in the wallet.",
-    "content": "Klever Wallet’s Dapps Browser is a simple and secure integration interface between your favorite Dapps and your blockchain accounts. Our Dapp Browser is currently compatible with Dapps from the Tron and Ethereum blockchains.",
-    "iosbutton": {
-      "enable": true,
-      "alt": "Download Apple Wallet",
-      "image": "images/btn-ios.svg",
-      "link": "https://apps.apple.com/us/app/id1525584688"
-    },
-    "androidbutton": {
-      "enable": true,
-      "alt": "Download Android Wallet",
-      "image": "images/btn-android.svg",
-      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
-    }
-  },
+    "subtitle": "Roadmap del Proyecto",
+    "title": "Siga lo que está haciendo nuestro equipo.",
 
-
-  "feature": {
-    "enable": true,
-    "subtitle": "Explore the blockchain world",
-    "title": "Play, trade, invest, collect and receive rewards using Dapps.",
-    "content": "The decentralized world of finance and other emerging services on the blockchain are available to you at the push of a button.",
-    "feature_item":[
+    "quarter_item":[
       {
-        "name": "Games",
-        "icon": "icon-games",
-        "category":"games"
+        "status_ok": true,
+        "year": "2017",
+        "quarter": "Q4",
+        "content": "<ul><li>Inicio del Proyecto</li></ul>"
       },
       {
-        "name": "Exchange",
-        "icon": "icon-exchange",
-        "category":"exchange"
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q1",
+        "content": "<ul> <li> Diseño de aplicaciones de Klever </li> <li> Diseño de UI / UX de Klever </li> <li> Arquitectura de software de Klever </li> </ul>"
       },
       {
-        "name": "Collectibles",
-        "icon": "icon-collectibles",
-        "category":"collectibles"
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q2",
+        "content": "<ul><li>Klever para iOS </li></ul>"
       },
       {
-        "name": "Rewards",
-        "icon": "icon-rewards",
-        "category":"rewards"
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q3",
+        "content": "<ul><li>Klever para Android </li></ul>"
       },
       {
-        "name": "DeFi",
-        "icon": "icon-defi",
-        "category":"defi"
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q4",
+        "content": "<ul><li>Compatibilidad con tokens TRC10 y TRC20</li></ul>"
       },
       {
-        "name": "Loan",
-        "icon": "icon-loan",
-        "category":"loan"
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q1",
+        "content": "<ul><li>Klever App 2.0</li></ul>"
       },
       {
-        "name": "Travel",
-        "icon": "icon-travel",
-        "category":"travel"
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q2",
+        "content": "<ul><li>Klever para Desktop</li></ul>"
       },
       {
-        "name": "Crowdfunding",
-        "icon": "icon-crowdfunding",
-        "category":"crowdfunding"
-      }
-    ]
-  },
-
-
-
-  "faq": {
-    "enable": true,
-    "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
-    "faq_item":[
-      {
-        "name": "What is a DApp?",
-        "content": "<p>A decentralized application (DApp) is a computer application that runs on a distributed computing system. DApps have been popularized by distributed ledger technologies (DLT) such as the Ethereum Blockchain, where DApps are often referred to as smart contracts.</p>"
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q4",
+        "content": "<ul><li>Klever App 3.0</li><li>Agregar soporte de Bitcoin (BTC)</li><li>Agregar soporte de Ethereum (ETH)</li></ul>"
       },
       {
-        "name": "Does the Browser access any type of website?",
-        "content": "<p>Yes, our browser works just like any web browser. You can access DApps, CoinMarketCap, as well as Google, Facebook, or any other website on the network.</p>"
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q1",
+        "content": "<ul><li> Klever Multi Token Swap </li><li> Reducir y pagar tarifas de intercambio con TWX </li><li> Agregar soporte para tokens Ethereum ERC20 </li></ul>"
       },
       {
-        "name": "Are the DApps accessed through the wallet from Klever?",
-        "content": "<p>No. The wallet only makes the transparent connection between the DApps and your account, but we are not the owners and we are not responsible for any transaction carried out through the wallet with the browser DApps. Always do your research.</p>"
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q2",
+        "content": "<ul><li> Klever OS </li><li> Klever App 4.0 </li><li> Programa de recomendación de Klever </li><li> Programa KLV Staking </li><li>Nuevo Sitio web </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q3",
+        "content": "<ul><li> Bitcoin estable (K-BTC) </li><li> Ethereum estable (K-ETH) </li><li> Klever Labs </li><li> Nuevo soporte de Blockchain: (BTC, ETH, LTC, BNB, DOGE, DASH, DGB) </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q4",
+        "content": "<ul><li> Compatibilidad con el navegador Ethereum </li><li> Nuevos gráficos de precios de monedas </li><li> Compre criptomonedas con tarjetas de débito y crédito </li><li> Nuevo soporte de Blockchain: (XRP, BCH) </li><li> Klever Blockchain White Paper </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q1",
+        "content": "<ul><li> Klever Exchange (Lanzamiento Mobile) </li><li> Navegador Klever (Lanzamiento Mobile) </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q2",
+        "content": "<ul><li> Klever 5 (Lanzamiento Mobile) </li><li> Klever Bank (Lanzamiento Mobile) </li><li>Suscripción Klever </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q3",
+        "content": "<ul><li> Klever Exchange (Lanzamiento Desktop) </li><li> Klever Blockchain (Lanzamiento Testnet) </li><li> Klever Hardware Wallet </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q4",
+        "content": "<ul><li> Klever Blockchain (Lanzamiento Mainnet) </li><li> Klever Browser (Lanzamiento Desktop) </li></ul>"
       }
       
     ]

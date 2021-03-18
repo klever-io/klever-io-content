@@ -216,7 +216,6 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
     "faq_item":[
       {
         "name": "What Crypto Accounts can I add to the wallet?",
