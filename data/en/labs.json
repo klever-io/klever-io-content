@@ -1,60 +1,65 @@
 {
 
-
   "started": {
-    "enable": false,
     "time_start": "KFI Mining",
     "start_content": "<p>The mining will start after the countdown ends.</p>",
-    "time_left" : "Time Left",
-    "left_content": "<p>KLVs sent outside of the participation period will be burned without refund.</p>",
-    "start_date": "Begins on March 22, 2021",
-    "klv_burn": "All KLV used to mine KFI from Mining Pools will be burnt"
+    "time_left" : "KFI Mining has started",
+    "time_ended" : "KFI Mining has ended",
+    "left_content": "<p>You can send your KLV to the mining pool until the timer below ends.</p><p>KLVs sent outside of the participation period will be burned without refund.</p>",
+    "start_date": "KFI Mining To Last Only 3 days (March 22-March 25)",
+    "klv_burn": "All KLV used to mine KFI from Mining Pools will be burnt",
+    "goto_how":"Start Mining",
+    "thank_you":"Special thanks to everyone who participated and is now part of the Klever Blockchain governance. We will meet there." 
   },
 
 
   "how": {
-    "enable": false,
-    "subtitle": "Klever Finance Token (KFI)",
+    "subtitle": "You have 3 days to participate",
     "title": "How to mine KFI?",
     "content_alert":"Read all instructions carefully. If your deposit does not meet all of the requirements below, your KLV will be forfeited.",
-    "content":"<p>People who have the KLV token will be able to add it as liquidity to extract the KFI token at the end of the term.</p><ul><li>1. The process will be automatic, just send your KLV to the address of the QR Code *.</li><li>2. All KLV sent to this address will be burned at the end of the term when the KFI is distributed.</li></ul>"
+    "investment_alert":"Important note: KFI has no intrinsic value, but is given value through the utility and usage of the Klever Blockchain. KFI is not an investment and not a token sale, but instead, KFI is an opportunity to participate in the governance of the Klever Blockchain and be part of one of the fastest growing blockchain communities in the world.",
+    "content":"<p>All people who have the KLV token will be able to add it as liquidity to extract the KFI utility token at the end of the period.</p> <p>The process will be automatic, just send your KLV to the address of the QR Code and at the end of the period you will receive the KFI at the same origin address as the your KLV. *</p>",
+    "step_1":"<i class='icon-pay'></i> <h4>Send your KLV</h4> <h5>March 22-March 25</h5> <p>Send your KLV to the pool address below in the QR Code (The QR Code will be available from the start date). The KLV sent outside the stipulated period for missed participation.</p>",
+    "step_2":"<i class='icon-unfreeze'></i><h4>KLV Burn</h4> <h5>March 26</h5> <p>All KLV sent to the KFI mining address at klever.io/labs during the mining event will be burned, in what is set to become one of the largest coin burns in the history of crypto. </p>",
+    "step_3":"<i class='icon-send'></i> <h4>KFI Distribution </h4> <h5>March 29</h5> <p>The available amount of KFI (100,000) will be divided by the entire amount of KLV received and each KLV sent will receive the proportional amount in KFI to which it is entitled.  **</p>"
   },
 
 
   "mine_data": {
-    "enable": false,
     "total_burnt_title":"Total Pool",
     "total_burnt_icon":"🔥",
     "total_burnt_tip":"Total KLV received at the mining address",
     "kfi_max":"Total to mine",
     "kfi_max_tip":"Total available for mining",
     "kfi_mined":"Mined",
-    "kfi_mined_tip":"KFI already mined",
-    "kfi_tobemined":"To be mined per day"
+    "kfi_mined_tip":"KFI already minted",
+    "kfi_tobemined":"To be mined per day",
+    "kfi_received":"Each klv sent will receive",
+    "kfi_received_tip":"On March 29, 2021",
+    "time_left" : "Time Left"
   },
 
 
   "qrcode" : {
-    "enable": false,
     "open_code": "I am aware of the rules, show me the address.",
-    "min_value" : "* Only send multiple values ​​of 1,000 KLV to the address. Lower values ​​may be lost if the distribution is less than 0.000001 KFI."
-  },
-
-
-  "banner" : {
-    "enable": false,
-    "image": "images/mining-banner.jpg",
-    "image_alt" : "KFI Mining and KLV Burn"
+    "exchange_address" : "*  Don't send your KLV from exchanges! The KFI will be sent to the origin address and your KFI will be lost.",
+    "min_value" : "** Lower values ​​may be lost if the distribution is less than 0.000001 KFI."
   },
 
 
   "userdata" :{
     "total_sent": "Total sent to the pool",
     "total_sent_tip": "Total sent by this address",
-    "partial_mined": "Total minted",
-    "partial_mined_tip": "Total already minted by this address",
-    "projection_mine": "Today's mining projection",
+    "projection_mine": "Mining projection",
     "projection_mine_tip": "This value may vary"
+  },
+
+
+  "what_is": {
+    "enable": true,
+    "subtitle": "Klever Finance Token (KFI)",
+    "title": "What is KFI?",
+    "content":"<p>The Klever Finance Token (KFI) is the Klever Blockchain governance token.</p><p>KFI token holders will have an essential influence and crucial responsibility over the Klever Blockchain's function and have complete control over the apps protocol configuration (such as application fees and functionalities), as well as approval authority over new apps using an on-chain voting system.</p><p>Inside the Klever Blockchain, KLV is the main utility token used for transaction gas and energy usage - KFI is the governance token for the Klever community and its main utility is to empower a world-wide distributed community to innovate in p2p technologies and advance decentralized finance products and services.</p><p>KFI holders will be able to use KFI on Klever Blockchain to:</p><ul><li> Vote for new app proposals.</li><li> Vote for change of app proposals.</li><li> Vote for new projects.</li><li> Earn network rewards when participating in the governance of the blockchain.</li></ul><p>KLV holders globally will be given the opportunity to mine KFI by adding KLV into daily mining pools. All KLV used to mine KFI will be burned and removed from KLV's circulating supply.</p><p>Only 150,000 KFI will initially be mined and the token is scarce in nature.</p><p>A total max supply of 1,000,000 KFI will ever be created through a halving process, and the full minting process will autonomously be taking 20 years to complete.</p>"
   },
 
 
@@ -62,7 +67,7 @@
     "enable": true,
     "subtitle": "Klever Finance Token (KFI)",
     "title": "Why mine KFI?",
-    "content":"<p>A total of 100,000 KFI will be made available for mining to the global KLV community during the KFI Mining and KLV Burn Event of March 22-April 20, 2021.</p> <p>All KLV used to mine KFI will be burned and removed from KLV’s circulating supply. KLV users globally will be given the opportunity to mine KFI by adding KLV into daily mining pools.</p> <p>Klever Blockchain will distribute 100% of the protocol fees as KLV network rewards to the KFI governance community as a reward for the responsibility and essential work involving in governing the blockchain. </p><p>Each Klever Blockchain app, or kapp, can have their own set of fees. Rewards are fees automatically collected on apps.\nThe power to approve or deny new kapps lies exclusively in the hands of the KFI governance community.\nBy using the KFI governance voting system, KFI holders will ensure that Klever Blockchain will be free of scams and suspicious apps since the KFI governance community are the ones reviewing and approving the deployment of new kapps.</p>",
+    "content":"<p>A total of 100,000 KFI will be made available for mining to the global KLV community during the KFI Mining and KLV Burn Event of March 22-March 25, 2021.</p><p>All KLV used to mine KFI will be burned and removed from KLV's circulating supply. KLV users globally will be given the opportunity to mine KFI by adding KLV into daily mining pools. Klever Blockchain will distribute 100% of the protocol fees as KLV network rewards to the KFI governance community as a reward for the responsibility and essential work involving in governing the blockchain.</p> <p>Each Klever Blockchain app, or kapp, can have their own set of fees. Rewards are fees automatically collected on apps. The power to approve or deny new kapps lies exclusively in the hands of the KFI governance community. By using the KFI governance voting system, KFI holders will ensure that Klever Blockchain will be free of scams and suspicious apps since the KFI governance community are the ones reviewing and approving the deployment of new kapps.</p>",
     "whitepaper_btn":"Download Whitepaper",
     "URL": "https://klever.io/downloads/Klever_Finance_Whitepaper_V1.pdf"
   },
@@ -76,7 +81,6 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
     "faq_item":[
       {
         "name": "What is the difference between KLV and KFI?",
@@ -85,7 +89,11 @@
       {
         "name": "How can I use KFI on Klever Blockchain?",
         "content": "<p>You can use KFI on Klever Blockchain to:</p><ul><li>• Vote for new proposals</li><li>• Vote for new projects</li><li>• Vote for proposal changes</li><li>• Vote for upgrade proposals</li><li>• Earn network rewards</li></ul>"
+      },{
+        "name": "Will I receive my KLV again after mining?",
+        "content": "<p>No. At the end of the mining period, all KLVs received will be burned, your KLV will be returned in KFI an amount that varies according to the total KLV sent during the period by all users.</p>"
       }
+      
       
     ]
   }

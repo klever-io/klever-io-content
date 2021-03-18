@@ -26,7 +26,19 @@
     "subtitle": "Installiere das Klever Wallet, um",
     "name": "Crypto mit Kreditkarte zu kaufen",
     "content": "Beginne deine Investition in Cryptowährungen durch direktes Kaufen mit Kreditkarte direkt in der App.",
-    "image": "images/buy-crypto.png"
+    "image": "images/buy-crypto-2.png",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
   },
 
 
@@ -34,7 +46,7 @@
   "swap": {
     "enable": true,
     "image": "images/swap-mockup.png",
-    "subtitle": "Installiere das Klever Wallet, um"
+    "subtitle": "Installiere das Klever Wallet, um",
     "title": "Crypto umgehend zu tauschen",
     "content": "Handle Währungen direkt in der App. Keine Registrierung, kein KYC, kein Selfie.",
     "content2":"Erhalte Belohnungen von den Swap-Gebühren der Freunde zurück.",
@@ -112,8 +124,7 @@
     "title": "+30 ",
     "title_countries": "Sprachen",
     "content":"Konfiguriere die Sprache und Basiswährung Deines Portfolios für ein ideales und gewohntes Erlebnis.",
-    "referral":" Wir haben auch ein unglaubliches Empfehlungsprogramm! Kein Ponzi.",
-
+    "referral":" Wir haben auch ein unglaubliches Empfehlungsprogramm!",
     "circle_title": "+190",
     "circle_text": "Länder"
 
@@ -172,7 +183,7 @@
 
   "download": {
     "enable": true,
-    "title": "Download Klever Wallet",
+    "title": "Laden Sie Klever Wallet herunter",
     "image": "images/download-mobile-img.jpg",
     "content": "Verpasse nichts mehr und lade das Klever Wallet gleich heute noch herunter und nutze alle leistungsstarken Funktionen der wichtigsten Kryptowährungen der Welt!",
     "iosbutton": {
@@ -192,7 +203,6 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
     "faq_item":[
       {
         "name": "Was ist Klever ? ",

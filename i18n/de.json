@@ -22,5 +22,17 @@
   {
     "id" : "telegram_warning",
     "translation": "Niemals den Seed oder Private Key in Gruppen oder privat teilen. Unser Support-Team wird niemals nach diesen Informationen fragen, daher immer aufpassen."
+  },
+  {
+    "id" : "faq_title",
+    "translation": "Häufig gestellte Fragen"
+  },
+  {
+    "id": "android_button_alt",
+    "translation" : "Download Android Wallet"
+  },
+  {
+    "id": "apple_button_alt",
+    "translation" : "Download Apple Wallet"
   }
 ]

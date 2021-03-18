@@ -2,14 +2,12 @@
 
 
   "started": {
-    "enable": true,
     "time_start": "Time to start",
     "start_content": "<p>The pool address will be released after the countdown ends.</p>"
   },
 
 
   "how": {
-    "enable": true,
     "subtitle": "Klever Finance Token (KFI)",
     "title": "How to mine KFI?",
     "content_alert":"Read all instructions carefully. If your deposit does not meet all of the requirements below, your KLV will be forfeited.",
@@ -18,7 +16,6 @@
   },
 
   "mine_data": {
-    "enable": true,
     "total_burnt_title":"Total Pool",
     "total_burnt_icon":"🔥",
     "total_burnt_tip":"Total KLV received at the mining address",
@@ -35,14 +32,12 @@
 
 
   "qrcode" : {
-    "enable": true,
     "open_code": "I am aware of the rules, show me the address.",
     "min_value" : "* Only send multiple values ​​of 1,000 KLV to the address. Lower values ​​may be lost if the distribution is less than 0.000001 KFI.",
     "time_left" : "Time Left"
   },
 
   "userdata" :{
-    "enable" : true,
     "total_sent": "Total sent to the pool",
     "total_sent_tip": "Total sent by this address",
     "partial_mined": "Total mined",

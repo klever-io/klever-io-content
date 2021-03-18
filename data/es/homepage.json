@@ -121,7 +121,7 @@
     "title_countries": "idiomas",
     "content":"Establezca el idioma y la moneda base de su cartera para una experiencia ideal.",
 
-    "referral":" ¡También tenemos un increíble programa de referencias! Sin ponzi.",
+    "referral":" ¡También tenemos un increíble programa de referencias!",
 
     "circle_title": "+190",
     "circle_text": "países"
@@ -202,7 +202,6 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Preguntas frecuentes",
     "faq_item":[
       {
         "name": "¿Qué es Klever? ",
