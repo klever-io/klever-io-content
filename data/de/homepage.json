@@ -46,7 +46,7 @@
   "swap": {
     "enable": true,
     "image": "images/swap-mockup.png",
-    "subtitle": "Installiere das Klever Wallet, um"
+    "subtitle": "Installiere das Klever Wallet, um",
     "title": "Crypto umgehend zu tauschen",
     "content": "Handle Währungen direkt in der App. Keine Registrierung, kein KYC, kein Selfie.",
     "content2":"Erhalte Belohnungen von den Swap-Gebühren der Freunde zurück.",
@@ -124,7 +124,7 @@
     "title": "+30 ",
     "title_countries": "Sprachen",
     "content":"Konfiguriere die Sprache und Basiswährung Deines Portfolios für ein ideales und gewohntes Erlebnis.",
-    "referral":" Wir haben auch ein unglaubliches Empfehlungsprogramm! Kein Ponzi.",
+    "referral":" Wir haben auch ein unglaubliches Empfehlungsprogramm!",
     "circle_title": "+190",
     "circle_text": "Länder"
 
