@@ -1,0 +1,143 @@
+{
+
+
+  "quarters_list": {
+    
+    "enable": true,
+    "subtitle": "Project Roadmap",
+    "title": "Follow what our team is doing.",
+
+    "quarter_item":[
+      {
+        "status_ok": true,
+        "year": "2017",
+        "quarter": "Q4",
+        "content": "<ul><li>Project Inception</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q1",
+        "content": "<ul><li>Klever App Design</li><li>Klever UI/UX Design</li><li>Klever Software Architecture</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q2",
+        "content": "<ul><li>Klever for iOS </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q3",
+        "content": "<ul><li>Klever for Android </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q4",
+        "content": "<ul><li>TRC10 and TRC20 tokens support</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q1",
+        "content": "<ul><li>Klever App 2.0</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q2",
+        "content": "<ul><li>Klever for Desktop</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q4",
+        "content": "<ul><li>Klever App 3.0</li><li>Add Bitcoin (BTC) Support</li><li>Add Ethereum (ETH) Support</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q1",
+        "content": "<ul><li> Klever Multi Token Swap </li><li> Reduce and Pay Swap Fees with TWX </li><li> Add Ethereum ERC20 tokens support </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q2",
+        "content": "<ul><li> Klever OS </li><li> Klever App 4.0 </li><li> Klever Referral Program </li><li> KLV Staking Program </li><li> New Website </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q3",
+        "content": "<ul><li> Bitcoin Stablecoin (K-BTC) </li><li> Ethereum Stablecoin (K-ETH) </li><li> Klever Labs </li><li> New Blockchain Support: (BTC, ETH, LTC, BNB, DOGE, DASH, DGB) </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q4",
+        "content": "<ul><li> Ethereum Browser Support </li><li> New Coin Price Charts </li><li> Buy Crypto with Debit and Credit Cards </li><li> New Blockchain Support: (XRP, BCH) </li><li> Klever Blockchain White Paper </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q1",
+        "content": "<ul><li> Klever Finance (KFI Mining) </li><li> Klever Exchange (Private Beta) </li><li> Klever Browser (Private Beta) </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q2",
+        "content": "<ul><li> Klever Exchange (Mobile)</li><li> Klever Browser (Mobile)</li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q3",
+        "content": "<ul><li> Klever 5 </li><li> Klever Bank</li><li> Klever Blockchain (Testnet) </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q4",
+        "content": "<ul><li> Klever Hardware Wallet</li><li> Klever Exchange for Desktop </li><li> Klever Blockchain 1.0 (Mainnet) </li><li>KLV and KFI Swap to Mainnet</li><li>Pre-Staking (Validators)</li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2022",
+        "quarter": "Q1",
+        "content": "<ul><li> Klever ID </li><li> Klever Subscription </li><li>Klever Browser for Desktop</li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2022",
+        "quarter": "Q2",
+        "content": "<ul><li>Klever Blockchain 2.0</li><li>Klever Pay</li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2022",
+        "quarter": "Q3",
+        "content": "<ul><li>Klever Blockchain 3.0</li><li>Klever Wealth Management</li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2022",
+        "quarter": "Q4",
+        "content": "<ul><li>Klever Blockchain 4.0</li><li>Klever Hedge Fund</li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2023",
+        "quarter": "Q4",
+        "content": "<ul><li>Klever Blockchain 5.0</li><li>Klever Phone</li></ul>"
+      }
+      
+    ]
+  }
+
+
+
+}

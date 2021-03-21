@@ -1,0 +1,113 @@
+{
+
+
+  "quarters_list": {
+    
+    "enable": true,
+    "subtitle": "Roadmap del Proyecto",
+    "title": "Siga lo que está haciendo nuestro equipo.",
+
+    "quarter_item":[
+      {
+        "status_ok": true,
+        "year": "2017",
+        "quarter": "Q4",
+        "content": "<ul><li>Inicio del Proyecto</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q1",
+        "content": "<ul> <li> Diseño de aplicaciones de Klever </li> <li> Diseño de UI / UX de Klever </li> <li> Arquitectura de software de Klever </li> </ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q2",
+        "content": "<ul><li>Klever para iOS </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q3",
+        "content": "<ul><li>Klever para Android </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2018",
+        "quarter": "Q4",
+        "content": "<ul><li>Compatibilidad con tokens TRC10 y TRC20</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q1",
+        "content": "<ul><li>Klever App 2.0</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q2",
+        "content": "<ul><li>Klever para Desktop</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2019",
+        "quarter": "Q4",
+        "content": "<ul><li>Klever App 3.0</li><li>Agregar soporte de Bitcoin (BTC)</li><li>Agregar soporte de Ethereum (ETH)</li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q1",
+        "content": "<ul><li> Klever Multi Token Swap </li><li> Reducir y pagar tarifas de intercambio con TWX </li><li> Agregar soporte para tokens Ethereum ERC20 </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q2",
+        "content": "<ul><li> Klever OS </li><li> Klever App 4.0 </li><li> Programa de recomendación de Klever </li><li> Programa KLV Staking </li><li>Nuevo Sitio web </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q3",
+        "content": "<ul><li> Bitcoin estable (K-BTC) </li><li> Ethereum estable (K-ETH) </li><li> Klever Labs </li><li> Nuevo soporte de Blockchain: (BTC, ETH, LTC, BNB, DOGE, DASH, DGB) </li></ul>"
+      },
+      {
+        "status_ok": true,
+        "year": "2020",
+        "quarter": "Q4",
+        "content": "<ul><li> Compatibilidad con el navegador Ethereum </li><li> Nuevos gráficos de precios de monedas </li><li> Compre criptomonedas con tarjetas de débito y crédito </li><li> Nuevo soporte de Blockchain: (XRP, BCH) </li><li> Klever Blockchain White Paper </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q1",
+        "content": "<ul><li> Klever Exchange (Lanzamiento Mobile) </li><li> Navegador Klever (Lanzamiento Mobile) </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q2",
+        "content": "<ul><li> Klever 5 (Lanzamiento Mobile) </li><li> Klever Bank (Lanzamiento Mobile) </li><li>Suscripción Klever </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q3",
+        "content": "<ul><li> Klever Exchange (Lanzamiento Desktop) </li><li> Klever Blockchain (Lanzamiento Testnet) </li><li> Klever Hardware Wallet </li></ul>"
+      },
+      {
+        "status_ok": false,
+        "year": "2021",
+        "quarter": "Q4",
+        "content": "<ul><li> Klever Blockchain (Lanzamiento Mainnet) </li><li> Klever Browser (Lanzamiento Desktop) </li></ul>"
+      }
+      
+    ]
+  }
+
+
+
+}

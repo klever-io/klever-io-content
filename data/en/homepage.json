@@ -26,7 +26,19 @@
     "subtitle": "Download Klever Wallet to",
     "name": "Buy Crypto with a Credit Card",
     "content": "Start your investment in cryptocurrencies by buying directly in the app with a credit card.",
-    "image": "images/buy-crypto.png"
+    "image": "images/buy-crypto-2.png",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
   },
 
 
@@ -61,7 +73,7 @@
     "subtitle": "Download Klever Wallet to",
     "title": "Use your favorite Dapps",
     "content": "A complete browser in your hands to access your favorite blockchain projects.",
-    "content2":"Fully compatible with Tron and Ethereum Blockchains.",
+    "content2":"Fully compatible with Ethereum and Tron blockchains.",
     "swap_count": "+500k Swaps performed",
     "iosbutton": {
       "enable": true,
@@ -112,8 +124,7 @@
     "title": "+30 ",
     "title_countries": "languages",
     "content":"Configure the language and base currency of your portfolio for an ideal and local experience.",
-    "referral":" We have an incredible referral program too! No ponzi.",
-
+    "referral":" We have an incredible referral program too!",
     "circle_title": "+190",
     "circle_text": "countries"
 
@@ -122,7 +133,7 @@
   "testimonial": {
     "enable": true,
     "subtitle": "App Reviews",
-    "title": "What Our Clients Says?",
+    "title": "What Our Clients Say?",
     "testimonial_item": [
       {
         "name": "Guilherme Mendes",
@@ -174,7 +185,7 @@
     "enable": true,
     "title": "Download Klever Wallet",
     "image": "images/download-mobile-img.jpg",
-    "content": "Don’t miss out, download Klever Wallet today and take advantage of all the powerful features of the world’s major cryptocurrencies has to offer.",
+    "content": "Don’t miss out, download Klever Wallet today and take advantage of all the powerful features the world’s major cryptocurrencies have to offer!",
     "iosbutton": {
       "enable": true,
       "alt": "Download Apple Wallet",
@@ -192,7 +203,6 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
     "faq_item":[
       {
         "name": "What is Klever ? ",
@@ -205,10 +215,6 @@
       {
         "name": "How to buy crypto with credit or debit card using Klever app?",
         "content": "<p>The ultimate guide and step-by-step tutorial on how to buy <b>Bitcoin (BTC)</b>, <b>Klever (KLV)</b>, <b>Ethereum (ETH)</b>, <b>Tron (TRX)</b> and <b>Ripple (XRP)</b> fast and securely with credit or debit cards right in the Klever App. </p> <p>Download Klever App for Android or iOS at: https://klever.io</p> <h4>How to buy cryptocurrencies in Klever:</h4> <ul><li> 1. Click on Buy Crypto Banner.</li>  <li>2. Choose Coin or Token to Buy. </li><li> 3. Input Amount of Crypto you want to Buy, or Fiat Value.</li><li>  4. Select Your Receiving Address. </li><li> 5. Input your Card Details & Fill the Form. </li><li> 6. Upload your Identity Document. </li><li>  7. Wait for your payment request to be approved. </li> </ul><h4>To check your Buy Order: </h4><ul><li>1. Click on Buy Crypto Banner.</li><li>  2. Click on Orders  </li></ul><p>If you have any questions or is in need of support with your crypto purchase, please contact support@simplex.com.</p><div class='video-faq'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ie7ysHQ05Xw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
-      },
-      {
-        "name": "How does Klever's referral program work?",
-        "content": "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
       }
       
     ]

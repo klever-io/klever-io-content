@@ -2,7 +2,6 @@
 
 
   "started": {
-    "enable": false,
     "time_start": "KFI Mining",
     "start_content": "<p>Das Mining beginnt, sobald der Countdown abgelaufen ist.</p>",
     "time_left" : "Das Mining beginnt in",
@@ -28,7 +27,6 @@
   },
 
   "mine_data": {
-
     "total_burnt_title":"Kompletter Pool",
     "total_burnt_icon":"🔥",
     "total_burnt_tip":"Alle an der Mining-Adresse eingegangenen KLV:",
@@ -72,6 +70,14 @@
     "title": "Was ist KFI?",
     "content":"<p> Der Klever Finance Token (KFI) ist der Verwaltungstoken der Klever Blockchain. </p> <p> Halter von KFI-Token haben einen wesentlichen Einfluss und eine entscheidende Verantwortung auf die Funktion der Klever Blockchain und haben die vollständige Kontrolle über die Konfiguration des Apps-Protokolls (z.B. Anmeldegebühren und -funktionen) sowie Genehmigungsbefugnis für neue Apps, mithilfe eines On-Chain-Abstimmungssystems. </p> <p> In der Klever-Blockchain ist KLV das Hauptzahlungsmittel für den Transaktionsgas- und Energieverbrauch. KFI ist der Verwaltungstoken für die Klevergemeinschaft. Sein Hauptnutzen besteht darin, eine weltweit verteilte Gemeinschaft in die Lage zu versetzen, Innovationen in P2P-Technologien vorzunehmen und dezentrale Finanzprodukte und -dienstleistungen voranzutreiben. </p> <p> KFI-Halter können KFI wie folgt auf der Klever Blockchain nutzen: </p> <ul> <li> Für neue App-Vorschläge abstimmen </li> <li> Für Änderungen von App-Vorschlägen abstimmen </li> <li> Stimmen für neue Projekte abgeben </li > <li> Netzwerkbelohnungen verdienen, wenn an der Verwaltung der Blockchain teilgenommen wurde </li> </ul> <p> KLV-Halter weltweit wird die Möglichkeit gegeben, KFI zu minen, indem KLV in die täglichen Minings aufgenommen wird. Alle KLV, die zur Gewinnung von KFI verwendet werden, werden verbrannt und aus dem Umlauf von KLV entfernt. </p> <p> Zunächst werden nur 150.000 KFI generiert und der Token ist von Natur aus knapp. </p> <p> Der maximale Gesamtbestand von 1.000.000 KFI wird in einem Halbierungsprozess erzeugt, wobei vollständige Prozess autonom 20 Jahre dauern wird. </p>"
   },
+
+  "what_is": {
+    "enable": true,
+    "subtitle": "Klever Finance Token (KFI)",
+    "title": "Was ist KFI?",
+    "content":"<p> Das Klever Finance Token (KFI) ist das Governance-Token der Klever Blockchain. </p> <p> Inhaber von KFI-Token haben einen wesentlichen Einfluss und eine entscheidende Verantwortung auf die Funktion der Klever Blockchain und haben die vollständige Kontrolle über die Konfiguration des Apps-Protokolls ( B. Anmeldegebühren und -funktionen) sowie Genehmigungsbefugnis für neue Apps mithilfe eines On-Chain-Abstimmungssystems. </p> <p> In der Klever-Blockchain ist KLV das Hauptnutzenzeichen für den Transaktionsgas- und Energieverbrauch. KFI ist das Governance-Token für die Klever-Community. Sein Hauptnutzen besteht darin, eine weltweit verteilte Community in die Lage zu versetzen, Innovationen in P2P-Technologien vorzunehmen und dezentrale Finanzprodukte und -dienstleistungen voranzutreiben. </p> <p> KFI-Inhaber können KFI nutzen auf Klever Blockchain an: </p> <ul> <li> Stimmen Sie für neue App-Vorschläge ab. </li> <li> Stimmen Sie für die Änderung von App-Vorschlägen ab. </li> <li> Stimmen Sie für neue Projekte ab. </li > <li> Verdienen Sie Netzwerkbelohnungen, wenn Sie an der Verwaltung der Blockchain teilnehmen. </li> </ul> <p> KLV-Inhaber weltweit wird die Möglichkeit gegeben, KFI abzubauen, indem KLV in die täglichen Bergbaubecken aufgenommen wird. Alle KLV, die zur Gewinnung von KFI verwendet werden, werden verbrannt und aus dem Umlauf von KLV entfernt. </p> <p> Zunächst werden nur 150.000 KFI abgebaut, und der Token ist von Natur aus knapp. </p> <p> Maximaler Gesamtvorrat von 1.000.000 KFI werden jemals durch einen Halbierungsprozess erzeugt, und der vollständige Münzprozess wird autonom 20 Jahre dauern. </p>"
+  },
+
 
   "why": {
     "enable": true,

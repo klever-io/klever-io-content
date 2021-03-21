@@ -38,7 +38,7 @@
         "content": "Trade currencies simply and quickly."
       },
       {
-        "name": "Daap Browser",
+        "name": "DAap Browser",
         "icon": "icon-dapps",
         "content": "Access a multitude of decentralized services through the browser."
       }
@@ -103,12 +103,6 @@
         "alt": "Ripple Wallet",
         "image": "images/assets/xrp.png",
         "abbr": "XRP"
-      },
-      {
-        "name": "Syscoin",
-        "alt": "Syscoin Wallet",
-        "image": "images/assets/sys.png",
-        "abbr": "SYS"
       },
       {
         "name": "Tether",
@@ -186,6 +180,12 @@
         "alt": "Billetera VeChain",
         "image": "images/assets/vet.png",
         "abbr": "VET"
+      },
+      {
+        "name": "Syscoin",
+        "alt": "Syscoin Wallet",
+        "image": "images/assets/sys.png",
+        "abbr": "SYS"
       }
     ]
 
@@ -216,11 +216,10 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Frequently Asked Questions",
     "faq_item":[
       {
         "name": "What Crypto Accounts can I add to the wallet?",
-        "content": "<p>Currently, the wallet accepts Bitcoin, Litecoin, DigiByte, Dogecoin, Dash, Ethereum, Tron, Klever, and all tokens from the Tron and Ethereum blockchains. </p>"
+        "content": "<p>Currently, the wallet supports Bitcoin, Litecoin, DigiByte, Dogecoin, Dash, Ethereum, Tron, Klever, and all tokens from the Tron and Ethereum blockchains. </p>"
       },
       {
         "name": "Can new Coins be added?",
@@ -228,7 +227,7 @@
       },
       {
         "name": "Which Tron and ETH tokens are available in the wallet?",
-        "content": "<p>TYou can access any token by searching the app's tokens. But we only selected the main ones for pre-listing.</p>"
+        "content": "<p>You can access any token by searching the app's tokens. But we only selected the main ones for pre-listing.</p>"
       },
       {
         "name": "What is a Klever stable coin?",

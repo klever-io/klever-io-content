@@ -26,7 +26,19 @@
     "subtitle": "Baixe a Klever Wallet e",
     "name": "Compre Criptos com cartão de crédito",
     "content": "Comece seu investimento em criptomoedas comprando no app com cartão de crédito.",
-    "image": "images/buy-crypto.png"
+    "image": "images/buy-crypto-2.png",
+    "iosbutton": {
+      "enable": true,
+      "alt": "Download Apple Wallet",
+      "image": "images/btn-ios.svg",
+      "link": "https://apps.apple.com/us/app/id1525584688"
+    },
+    "androidbutton": {
+      "enable": true,
+      "alt": "Download Android Wallet",
+      "image": "images/btn-android.svg",
+      "link": "https://play.google.com/store/apps/details?id=cash.klever.blockchain.wallet"
+    }
   },
 
   "feature": {
@@ -36,14 +48,17 @@
     "feature_item":[
       {
         "name": "Suporte 24/7",
+        "icon": "icon-tutorials",
         "content": "O suporte é um dos nossos grandes destaques. Temos uma equipe de atendimento global e rápida."
       },
       {
         "name": "Peer-to-Peer",
+        "icon": "icon-switch",
         "content": "Klever é uma rede p2p descentralizada e de carteiras autocuidadas. Suas chaves, seus criptos."
       },
       {
         "name": "Criptografia Militar",
+        "icon": "icon-lock",
         "content": "Klever utiliza a mais recente tecnologia de nível militar para criptografia."
       }
     ]
@@ -187,7 +202,6 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Perguntas Frequentes",
     "faq_item":[
       {
         "name": "O que é a Klever? ",
@@ -200,10 +214,6 @@
       {
         "name": "Como comprar criptografia com cartão de crédito ou débito usando o aplicativo Klever?",
         "content": "<p>O guia final e o tutorial passo a passo sobre como comprar <b>Bitcoin (BTC)</b>, <b>Klever (KLV)</b>, <b>Ethereum (ETH)</b>, <b>Tron (TRX)</b> and <b>Ripple (XRP)</b> de forma rápida e segura com cartões de crédito ou débito direto no aplicativo Klever. </p> <p>Download Klever App for Android or iOS at: https://klever.io</p> <h4>Como comprar criptomoedas em Klever:</h4> <ul><li> 1. Click on Buy Crypto Banner.</li>  <li>2. Choose Coin or Token to Buy. </li><li> 3. Input Amount of Crypto you want to Buy, or Fiat Value.</li><li>  4. Select Your Receiving Address. </li><li> 5. Input your Card Details & Fill the Form. </li><li> 6. Upload your Identity Document. </li><li>  7. Wait for your payment request to be approved. </li> </ul><h4>To check your Buy Order: </h4><ul><li>1. Click on Buy Crypto Banner.</li><li>  2. Click on Orders  </li></ul><p>If you have any questions or is in need of support with your crypto purchase, please contact support@simplex.com.</p><div class='video-faq'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ie7ysHQ05Xw' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
-      },
-      {
-        "name": "Como funciona o programa de referência de Klever?",
-        "content": "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
       }
       
     ]
