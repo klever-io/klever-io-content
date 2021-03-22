@@ -104,38 +104,39 @@
         "year": "2021",
         "quarter": "Q4", 
         "content": "<ul><li> Klever Hardware Wallet </li><li> Klever Exchange für Desktop </li><li> Klever Blockchain 1.0 (Mainnet) </li><li> KLV und KFI Swap zum Mainnet </li><li> Pre-Staking (Validatoren) </li></ul>"
-      }
-   {
+      },
+      {
         "status_ok": false,
         "year": "2022",
         "quarter": "Q1", 
         "content": "<ul><li> Klever ID </li><li> Klever-Abonnement </li><li> Klever Browser für Desktop</li></ul>"
-      }
-   {
+      },
+      {
         "status_ok": false,
         "year": "2022",
         "quarter": "Q2", 
         "content": "<ul><li> Klever Blockchain 2.0 </li><li> Klever-Bezahlung </li></ul>"
-      }
-    ]    {
+      },
+      {
         "status_ok": false,
         "year": "2022",
         "quarter": "Q3", 
-        "content": "<ul><li> Klever Blockchain 3.0 </li><li> Klever-Vermögensverwaltung </li><li> </ul>"
-      }
-  }   {
+        "content": "<ul><li> Klever Blockchain 3.0 </li><li> Klever-Vermögensverwaltung </li> </ul>"
+      },
+      {
         "status_ok": false,
         "year": "2022",
         "quarter": "Q4", 
-        "content": "<ul><li> Klever Blockchain 4.0 </li><li> Klever Hedge Fond </li><li> </ul>"
-      }
-  }   {
+        "content": "<ul><li> Klever Blockchain 4.0 </li><li> Klever Hedge Fond </li> </ul>"
+      },
+      {
         "status_ok": false,
         "year": "2023",
         "quarter": "Q4", 
-        "content": "<ul><li> Klever Blockchain 5.0 </li><li> Klever Privates Telefon </li><li> </ul>"
+        "content": "<ul><li> Klever Blockchain 5.0 </li><li> Klever Privates Telefon </li> </ul>"
       }
-
+    ]
+  }
 
 } 
 

@@ -180,43 +180,25 @@
         "alt": "Billetera VeChain",
         "image": "images/assets/vet.png",
         "abbr": "VET"
-      }
+      },
      {
         "name": "Syscoin",
         "alt": "Syscoin Wallet",
         "image": "images/assets/sys.png",
         "abbr": "SYS"
-      },
-    ]
-
-
-
-  },
-
-
-  "funfacts": {
-    "enable": false,
-    "funfact_item": [
-      {
-        "name": "Swaps durchgeführt",
-        "count": "500000"
-      },
-      {
-        "name": "Ethereum und Tron-Token",
-        "count": "10000"
-      },
-      {
-        "name": "Blockchains",
-        "count": "10"
       }
     ]
+
+
+
   },
+
+
 
 
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Häufig gestellte Fragen",
     "faq_item":[
       {
         "name": "Welche Crypto-Währungen kann ich im Wallet hinzufügen?",

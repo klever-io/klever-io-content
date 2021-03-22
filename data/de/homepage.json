@@ -203,7 +203,6 @@
   "faq": {
     "enable": true,
     "subtitle": "Klever Wallet FAQ",
-    "title": "Häufig gestellte Fragen",
     "faq_item":[
       {
         "name": "Was ist Klever ? ",

@@ -7,9 +7,9 @@
     "time_left" : "Das Mining beginnt in",
      "time_ended" : "KFI Mining ist beendet",
     "left_content": "<p> KLV können so lange an den Mining-Pool gesendet werden, bis der unten stehende Timer abgelaufen ist. </p><p>KLV, die nach Ablauf des Events geschickt werden, werden ausnahmslos ohne Rückgabemöglichkeit verbrannt.</p>",
-    "start_date": "Das Mining wird nur 3 Tage stattfinden (22. März - 25.März 2021",
-    "klv_burn": "Alle KLV, die zum Minen von KFI an den Mining Pool geschickt werden, werden verbrannt."
-     "goto_how":"Mit dem Minen beginnen",
+    "start_date": "Das Mining wird nur 3 Tage stattfinden <br>22. März - 25.März 2021",
+    "klv_burn": "Alle KLV, die zum Minen von KFI an den Mining Pool geschickt werden, werden verbrannt.",
+    "goto_how":"Mit dem Minen beginnen",
     "thank_you":"Besonderer Dank geht an alle, die teilgenommen haben und nun Teil der Klever Blockchain-Verwatlung sind. Wir treffen uns dort." 
   },
 
@@ -48,12 +48,6 @@
     "exchange_address" : "*  Sende deine KLV nicht von Börsen! Der KFI-Token wird an die Ursprungsadresse gesendet und geht bei einer Börsenadresse verloren."
  },
 
-
-  "banner" : {
-    "enable": false,
-    "image": "images/mining-banner.jpg",
-    "image_alt" : "KFI Mining und KLV Verbrennung"
-  },
 
   "userdata" :{
     "total_sent": "Gesamt an den Pool gesandt:",
